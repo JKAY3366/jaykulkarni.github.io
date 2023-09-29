@@ -1,11 +1,20 @@
 ---
-title: "jaykulkarni.github.io"
+title: "Jay Kulkarni"
+about:
+  image: photo_jay.jpg
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: jay.kulkarni@studbocconi.it
+      href: mailto:jay.kulkarni@studbocconi.it
+    - icon: twitter  
+      text: jayvkulkarni 
+      href: https://twitter.com/jayvkulkarni
+    - icon: linkedin
+      text: jaykulkarni
+      href: https://www.linkedin.com/in/jay-kulkarni-econ/
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## About Me
+Random Stuff about me comes here.
