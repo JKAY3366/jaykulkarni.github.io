@@ -1,7 +1,7 @@
 ---
 title: "Jay Kulkarni"
 about:
-  image: photo_jay.jpg
+  image: MISC/photo_jay.jpg
   id: hero-heading
   template: trestles
   image-shape: round
@@ -16,5 +16,8 @@ about:
       text: jaykulkarni
       href: https://www.linkedin.com/in/jay-kulkarni-econ/
 ---
+
 ## About Me
-Random Stuff about me comes here.
+
+I study economics at Bocconi University, Milan (MSc in Economic and Social Sciences), where I am also an ICRIOS Visiting Student.
+

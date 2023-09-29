@@ -1,9 +1,11 @@
 ---
 title: "About"
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
+## Education
+### Bocconi University
+### Azim Premji University
+### Rishi Valley School
+## Work Experience
+### LEAP, Bocconi
+### XKDR Forum
+### CSE
