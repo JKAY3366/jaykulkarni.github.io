@@ -16,10 +16,14 @@ website:
           - text: "CV"
             href: MISC/KulkarniCVOct2023.pdf
       - blog.qmd
+  page-footer: 
+    left: Copyright 2023, Jay Kulkarni
               
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: superhero
     css: styles.css
     toc: true
     page-layout: full
