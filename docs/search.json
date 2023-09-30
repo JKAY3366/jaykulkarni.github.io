@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am presently in the final year of the MSc program."
+    "text": "I am presently in the second year of the MSc program."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "",
-    "text": "I am presently in the final year of the MSc program."
+    "text": "I am presently in the second year of the MSc program."
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
     "title": "About",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nLEAP, Bocconi\n\n\nXKDR Forum\n\n\nCSE"
+    "section": "Work Experience:",
+    "text": "Work Experience:\n\nLEAP, Bocconi\nI worked as a research assistant to Professor Andrea Guariso at the Laboratory for Effective Anti-Poverty Policies (LEAP) over the summer of 2023. I was selected in the LEAP Internship Program. A new skill I learnt was to do ‘fuzzy matching’ of data in Stata. I further used the ‘LEDA’ package in R, which was specifically designed to match ethnic data-sets in Africa (relevant for the project). Using the LEDA package made me understand the basics of Object Oriented Programming. Lastly, I learnt QGIS to handle spatial data-sets.\n\n\nXKDR Forum\nI am presently collaborating with XKDR Forum, Mumbai, as a quantitative researcher. I have been involved in a project on the effect of finance on household consumption management. We are using longitudinal micro-data from India for the project. I regularly visualize data and run regressions using R for the project. At XKDR, I have learnt to document my work systematically and to create functions from scratch in R. I am also motivated to learn open-source systems and master the command line (great for productivity!), which were introduced to me at the organization.\n\n\nCSE\n\n\nSeva Mandir"
   },
   {
     "objectID": "blog/Bl20230930diary/index.html",
