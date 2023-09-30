@@ -1,11 +1,19 @@
 ---
 title: "About"
 ---
+
 ## Education
+
 ### Bocconi University
+I am presently in the final year of the MSc program. 
 ### Azim Premji University
+
 ### Rishi Valley School
+
 ## Work Experience
+
 ### LEAP, Bocconi
+
 ### XKDR Forum
+
 ### CSE
