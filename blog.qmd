@@ -1,5 +1,6 @@
 ---
-title: "My Blog"
+title: "Blog"
+subtitle: "This is a space where I will write about everything that interests me."
 listing: 
   contents: blog # all Quarto docs in the `posts` directory will be included on your listing page
   type: default # or `grid` or `table`; each type has its own set of yaml options to include
