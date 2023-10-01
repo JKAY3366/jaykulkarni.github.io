@@ -10,11 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - text: "About"
-        menu: 
-          - text: "About me"
-            href: about.qmd
-          - text: "CV"
-            href: MISC/KulkarniCVOct2023.pdf
+        href: about.qmd
+      - text: "CV"
+        href: MISC/KulkarniCVOct2023.pdf
       - blog.qmd
   page-footer: 
     left: Copyright 2023, Jay Kulkarni
